@@ -1,0 +1,149 @@
+ALPER DEDEOğLU
+SAP Technical Consultant
+Rami Yenimahalle Reşadiye St. No: 62 / 3 Eyüp / İstanbul / Turkey, 
+1992-10-15
+E-mail: alperdedeogluu@gmail.com
+Phone: +905375410374
+LinkedIn: linkedin.com/adedeoglu
+
+EXPERIENCE
+
+SAP TECHNICAL CONSULTANT
+
+ - AYA IT CONSULTANCY SERVICES  
+
+
+2015-01 - now
+
+EDUCATION
+İSTANBUL TECHNICAL UNIVERSITY (ITU)
+
+
+Physics Engineering Department (English)
+
+
+
+SKILLS
+Object Oriented ABAP
+
+, SAP UI5 Development  
+
+, ABAP Managed Database Procedures (AMDP) &amp; HANA SQL Script
+
+, Core Data Services (CDS) &amp; Table Function Development 
+
+, SAP Business Workflow Configuration &amp; Development
+
+, Dialog Programming
+
+, Business Server Page (BSP) Development
+
+, Web Dynpro Development
+
+, BADI, User-Exit , Enhancement Implementation
+
+, Design Patterns (Structural &amp; Behaviour)
+
+, SAP Custom Code Lifecycle Management (CCLM)
+
+, SAP PI 7.5 Single Stack
+
+, Embedded Systems Development
+
+, Javascript, HTML, CSS
+
+, Java, Python, C, C++
+
+
+
+                      SAP Technical Consultant over 4 years experience specializing in SAP HANA, WF, ABAP, SAPUI5 Development. Dedicated professional with strong analytical and conceptual problem solving abilities as well as the necessary communication, organisational, and time management skills to take on any task and exceed expectations.  
+
+REFERENCES
+EVAS S/4 HANA MIGRATION PROJECT (ONGOING)
+
+
+Responsibilities: 
+
+
+
+CDS View, AMDP, Table Function DevelopmentDevelopment and configuration of SAP Business Workflows (WF)Custom SAPUI5 application development &amp; standart SAPUI5 application activation on HANA Versions 1809 1710Integration of custom and standart workflows with SAP Standart UI5 ApplicationsDevelopment of reports with SALV and OO-ALV using MVC design patternCustomer-Exit, User-Exit, BADI ImplementationsWeb Dynpro &amp; BSP Application DevelopmentWarehouse Management Integration: FTP to SFTP scenario with SSL key pair using SAP PI 7.5Banking Integration: Proxy to SOAP, Proxy to REST scenarios using SAP PI 7.5Redesigning of existing custom codes to comply with S/4 HANA standardsConfiguration, maintenance, development and integration of web services with ABAPIntegration with 3rd party database and software products
+
+
+
+IPRAGAZ &AMP; SIMON KUCHER PARTNERS STRATEGY &AMP; MARKETING PROJECT - SAP TECHNICAL CONSULTANT (ONGOING)
+Responsibilities :
+
+
+
+Cooperating with the Simon Kucher &amp; Partners developer team PolandQuality assurance of SAPUI5 and ABAP backend developmentsTaking over the developments made by Simon Kucher &amp; PartnersBug fixing on frontend SAPUI5 sideAnalyzing the technical documents provided by Simon Kucher &amp; PartnersSupporting end-user testsBug fixing on ABAP Backend side
+
+İPRAGAZ S/4 HANA MIGRATION PROJECT - SAP TECHNICAL CONSULTANT  
+
+
+Responsibilities: 
+
+
+
+CDS View, AMDP, Table Function DevelopmentDevelopment and configuration of SAP Business Workflows (WF)Custom SAPUI5 application development &amp; standart SAPUI5 application activation on HANA Versions 1809 1710Integration of custom and standart workflows with SAP Standart UI5 ApplicationsDevelopment of reports with SALV and OO-ALV using MVC design patternCustomer-Exit, User-Exit, BADI ImplementationsWeb Dynpro &amp; BSP Application DevelopmentWarehouse Management Integration: FTP to SFTP scenario with SSL key pair using SAP PI 7.5Banking Integration: Proxy to SOAP, Proxy to REST scenarios using SAP PI 7.5Redesigning of existing custom codes to comply with S/4 HANA standardsConfiguration, maintenance, development and integration of web services with ABAPIntegration with 3rd party database and software productsPost Go Live Support
+
+
+
+
+
+KLOECKNER PENTAPLAST FI LOCALIZATION PROJECT - SAP TECHNICAL CONSULTANT  
+
+
+Responsibilities:
+
+
+
+Development of reports with SALV and OO-ALV using MVC design patternCustomer-Exit, User-Exit, BADI ImplementationsWeb Dynpro &amp; BSP Application DevelopmentConfiguration, maintenance, development and integration of web services with ABAPDesigning layouts of smartformsPost Go Live Support
+
+
+
+
+
+OLMUKSAN RECONCILIATION PROJECT - SAP TECHNICAL CONSULTANT
+
+
+Responsibilities:
+
+Activating the HTTPS service in SMICMConfiguration, maintenance, development and integration of web services with ABAPDevelopment of reports with SALV and OO-ALV using MVC design patternDocumentation of developmentIntegration with 3rd party .NET, JAVA systemsPost Go Live Support
+
+BAKIOGLU GROUP COMPANIES SAP SOLMAN / CCLM PROJECT - SAP TECHNICAL CONSULTANT
+Responsibilities:
+
+
+
+Scheduling Usage Procedure Logging (UPL) Collector, Extractor Scheduling ABAP Test Cockpit Jobs (ATC)Custom Code Analysis by using tools: SAP Clone Finder                                                                    T-Code Similarity                                                                    SAP Interface Analysis                                                                    SAP Modification Overview                                                                    SAP Reference AnalysisDocumentation of Custom Code Analysis                                                                    Suggesting possible solutions to the critical coding issues provided by ABAP Test CockpitSuggesting possible solutions to the critical security issues provided by ABAP Test CockpitSuggesting possible solutions to the critical performance issues provided by ABAP Test Cockpit Communication with BASIS team
+
+HYUNDAI TECHNICAL SUPPORT - SAP TECHNICAL CONSULTANT
+
+
+Responsibilities:
+
+Development &amp; bug fixing of ABAP ReportsTroubleshooting of integration with 3rd party .NET CRM systemDevelopment of RFC &amp; Web ServicesDocumentation of developments
+
+MUSTAFA NEVZAT PHARMACEUTICALS COST ANALYSIS PROJECT - SAP TECHNICAL CONSULTANT
+
+
+
+
+Responsibilities: 
+
+Development of reports with SALV and OO-ALV using MVC design patternCustomer-Exit, User-Exit, BADI ImplementationsCooperation with Functional Consultants Development of ABAP programs based on functional requirements 
+
+ASAŞ ALUMINIUM COST &AMP; FINANCIAL ANALYSIS PROJECT - SAP TECHNICAL CONSULTANT
+
+
+Responsibilities:
+
+Development of reports OO-ALV using MVC design patternUser-Exit implementations using decorator patternWeb Dynpro &amp; BSP Application DevelopmentConfiguration, maintenance, development and integration of web services with ABAPDesigning layouts &amp; development of smartformsDesigning layouts &amp; development of Adobe Forms 
+
+ITU SOLAR CAR TEAM - SOLAR CAR PROJECTS (ARIBA -VII &AMP; ARUNA) - EMBEDDED SOFTWARE DEVELOPER
+
+
+Responsibilities :  
+
+Embedded Software Development of motor controller circuit using SPI, CAN Bus, GPIO peripheralsEmbedded Software Development of Dashboard circiut using CAN Bus, I2C, GPIO peripheralsJava Development for Battery Management System GUI terminal applicationDesigning of technical documentation of Solar Car softwareDevelopment &amp; Integration of Web Application which enables  to monitor real-time data analysis and energy consumption of the car  
+
